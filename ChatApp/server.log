@@ -1,0 +1,5 @@
+[2025-06-02T21:50:43.004872900] Server started on port 5050
+[2025-06-02T21:50:57.719825200] Client logged in: user01
+[2025-06-02T21:51:02.330543800] Broadcast message: [2025-06-02T21:51:02.308545900] user01: ffffff
+[2025-06-02T21:51:13.801482800] Client logged in: user02
+[2025-06-02T21:51:56.007157800] Client disconnected: user02
