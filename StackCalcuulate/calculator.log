@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-04-05T06:15:49.592615800Z</date>
+  <millis>1743833749592</millis>
+  <nanos>615800</nanos>
+  <sequence>0</sequence>
+  <logger>calculator.Calculator</logger>
+  <level>INFO</level>
+  <class>calculator.Calculator</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Executed command: PUSH</message>
+</record>
+<record>
+  <date>2025-04-05T06:16:13.544000600Z</date>
+  <millis>1743833773544</millis>
+  <nanos>600</nanos>
+  <sequence>1</sequence>
+  <logger>calculator.Calculator</logger>
+  <level>SEVERE</level>
+  <class>calculator.Calculator</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Error executing command: Not enough arguments to do addition(only one value left in stack)</message>
+</record>
+</log>
